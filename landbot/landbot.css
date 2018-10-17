@@ -1,0 +1,144 @@
+body{
+    background-color:#281e65;
+    border:border-box;
+    line-height: 1;
+    
+}
+.header-landbot{
+
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+
+    position: fixed;
+top: 0;
+left: 0;
+width: 90%;
+    
+
+}
+.land{
+    letter-spacing: -.85px;
+    margin-right: 13px;
+    white-space: nowrap;
+    color: white;
+    font-size: 30px;
+    font-style: normal;
+    font-family: 'righteous',cursive;
+    font-weight: 700;
+}
+.b-log{
+   
+    width :30%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-right: 50px;
+   
+}
+.log:hover{
+    background-color: white;
+    
+}
+.log{
+   color: floralwhite;
+    background-color: #281e65;
+    border: none;
+    border-radius: 20px;
+    font-family: 'righteous',cursive;
+    height: 30px;
+    width:100px;
+    border-radius: 100px;
+    margin-left: 80px;
+}
+
+
+.sign{
+        color: white;
+        background-color: #281e65;
+        border: 2px white solid;
+        border-radius:20px;
+        font-family: 'righteous',cursive;
+        height: 30px;
+         width:100px;
+          margin-left: 4px;
+    }
+ .sign:hover{
+    background-color: rgb(238, 0, 118);
+    }
+main{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height:750px;
+
+}
+.discussion{
+   
+   margin-top: 100px;
+   font-family: 'righteous',cursive;
+padding-right: 40px;
+    width: 450px;
+   max-height:max-content ;
+
+    
+}
+.chat{
+    background-color: white;
+    border-radius: 10px;
+   color: blueviolet;
+    padding: 20px;
+    font-family: 'righteous',cursive;
+    font-size: 20px;
+    text-align: left;
+  max-width:max-content;
+  font-size: 17px;
+  line-height: 1.25;
+
+}
+
+.picture{
+
+border-radius: 15px;
+width:60%;
+height:120px;
+
+}
+.choose-option{
+color: white;
+font-family: 'righteous',cursive;
+font-size: 10px;
+text-transform: uppercase;
+}
+.information{
+color: white;
+background: #FF1493;
+border:2px solid rgb(223, 9, 73);
+border-radius: 5px;
+    font-size: 16px;
+padding:20px 20px;
+width: 100;
+justify-content:space-around;
+
+}
+.information:hover{
+    background-color:  rgb(241, 97, 210);
+    
+}
+.accept{
+
+color:white;
+font-size: 16px;
+margin: 5px 0;
+font-family: 'righteous',cursive;
+box-sizing: border-box;
+
+}
+
+#policy{
+color: white;
+
+}
+
